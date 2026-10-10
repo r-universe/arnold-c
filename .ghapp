@@ -1,0 +1,10 @@
+{
+  "id": 170038457,
+  "created_at": "2026-10-10T18:38:23.000Z",
+  "repository_selection": "selected",
+  "permissions": {
+    "metadata": "read",
+    "statuses": "write"
+  },
+  "repositories": ["arnold-c.r-universe.dev", "REPLConnect.R"]
+}
